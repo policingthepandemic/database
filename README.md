@@ -1,1 +1,1 @@
-# searchable database of COVID-19 related enforcement events across Canada
+# searchable database of COVID-19 related enforcement actions across Canada
